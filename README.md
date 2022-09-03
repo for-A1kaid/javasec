@@ -16,3 +16,4 @@ https://tttang.com/archive/1710/#toc_
 9.2 https://xz.aliyun.com/t/11627#toc-2  https://www.anquanke.com/post/id/262433  https://forum.butian.net/share/1410
 
 9.3 https://www.r4v3zn.com/posts/144eb4b6   Weblogic IIOP 协议NAT 网络绕过
+https://www.r4v3zn.com/posts/51fa2b96/  weblogic IIOP漏洞的回显构造研究
