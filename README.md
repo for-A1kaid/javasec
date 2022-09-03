@@ -14,3 +14,5 @@ https://github.com/Y4tacker/JavaSec/blob/main/%E5%85%B6%E4%BB%96/Java%E4%BA%8C%E
 https://tttang.com/archive/1710/#toc_
 
 9.2 https://xz.aliyun.com/t/11627#toc-2  https://www.anquanke.com/post/id/262433  https://forum.butian.net/share/1410
+
+9.3 https://www.r4v3zn.com/posts/144eb4b6   Weblogic IIOP 协议NAT 网络绕过
