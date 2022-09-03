@@ -21,3 +21,5 @@ https://github.com/Ridter/Intranet_Penetration_Tips#%E5%9F%9F%E5%86%85%E4%B8%BB%
 https://cloud.tencent.com/developer/article/1835941 exchange哪几个组拥有dcsync权限
 https://yoga7xm.top/2020/01/15/8581/#Abstruct  
 Exchange SSRF漏洞利用
+https://3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-%E8%8E%B7%E5%BE%97Exchange%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E5%86%85%E7%BD%91IP
+探测exchange服务器内网ip
