@@ -17,3 +17,7 @@ https://tttang.com/archive/1710/#toc_
 
 9.3 https://www.r4v3zn.com/posts/144eb4b6   Weblogic IIOP 协议NAT 网络绕过
 https://www.r4v3zn.com/posts/51fa2b96/  weblogic IIOP漏洞的回显构造研究
+https://github.com/Ridter/Intranet_Penetration_Tips#%E5%9F%9F%E5%86%85%E4%B8%BB%E6%9C%BA%E6%8F%90%E6%9D%83  内网exchange的利用
+https://cloud.tencent.com/developer/article/1835941 exchange哪几个组拥有dcsync权限
+https://yoga7xm.top/2020/01/15/8581/#Abstruct  
+Exchange SSRF漏洞利用
