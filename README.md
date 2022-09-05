@@ -23,3 +23,5 @@ https://yoga7xm.top/2020/01/15/8581/#Abstruct
 Exchange SSRF漏洞利用
 https://3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-%E8%8E%B7%E5%BE%97Exchange%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E5%86%85%E7%BD%91IP
 探测exchange服务器内网ip
+
+9.4 https://forum.90sec.com/t/topic/2172   win环境下file_get_contents重启宝塔面板的php服务
