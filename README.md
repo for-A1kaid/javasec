@@ -25,3 +25,4 @@ https://3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-%E8%8E%B7%E5%BE
 探测exchange服务器内网ip
 
 9.4 https://forum.90sec.com/t/topic/2172   win环境下file_get_contents重启宝塔面板的php服务
+https://blog.sari3l.com/posts/bc626227/  confluence  ognl注入  有点忘了这个漏洞的代码了于是再看一遍
