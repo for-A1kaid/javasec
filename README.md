@@ -31,3 +31,5 @@ https://blog.sari3l.com/posts/bc626227/  confluence  ognl注入  有点忘了这
 
 9.13https://security.humanativaspa.it/groovy-template-engine-exploitation-notes-from-a-real-case-scenario/  groovy Template Engine
 http://noahblog.360.cn/xalan-j-integer-truncation-reproduce-cve-2022-34169/
+
+9.14 https://unsafe.sh/go-123724.html  spel注入bcel内存马
