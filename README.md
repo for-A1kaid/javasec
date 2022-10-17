@@ -33,3 +33,6 @@ https://blog.sari3l.com/posts/bc626227/  confluence  ognl注入  有点忘了这
 http://noahblog.360.cn/xalan-j-integer-truncation-reproduce-cve-2022-34169/
 
 9.14 https://unsafe.sh/go-123724.html  spel注入bcel内存马
+
+10.17 https://cangqingzhe.github.io/2021/10/20/hibernate1%E5%88%A9%E7%94%A8%E9%93%BE%E5%88%86%E6%9E%90/  hibernate1利用链分析
+https://mp.weixin.qq.com/s/89wXyPaSn3TYn4pmVdr-Mw  csrce
