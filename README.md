@@ -36,3 +36,6 @@ http://noahblog.360.cn/xalan-j-integer-truncation-reproduce-cve-2022-34169/
 
 10.17 https://cangqingzhe.github.io/2021/10/20/hibernate1%E5%88%A9%E7%94%A8%E9%93%BE%E5%88%86%E6%9E%90/  hibernate1利用链分析
 https://mp.weixin.qq.com/s/89wXyPaSn3TYn4pmVdr-Mw  csrce
+
+10.18  https://mp.weixin.qq.com/s?__biz=MzU2NTExMDQxOQ==&mid=2247483934&idx=1&sn=aa20df31b6dea473ed72cfb90d50a752  redis未授权到shiro反序列化
+
