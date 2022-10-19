@@ -38,4 +38,5 @@ http://noahblog.360.cn/xalan-j-integer-truncation-reproduce-cve-2022-34169/
 https://mp.weixin.qq.com/s/89wXyPaSn3TYn4pmVdr-Mw  csrce
 
 10.18  https://mp.weixin.qq.com/s?__biz=MzU2NTExMDQxOQ==&mid=2247483934&idx=1&sn=aa20df31b6dea473ed72cfb90d50a752  redis未授权到shiro反序列化
+10.19 https://mp.weixin.qq.com/s?__biz=MjM5MTYxNjQxOA==&mid=2652892336&idx=1&sn=d9e85c818155854614af617918d85714&chksm=bd59907d8a2e196b7f72aa6cd69eaa2f09fca2791e86c6f8dc3f7ae37897fdca2a5f5fca5e84&scene=178&cur_album_id=2619537533131227139#rd apachespark命令注入
 
