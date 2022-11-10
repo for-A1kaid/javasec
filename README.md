@@ -40,3 +40,4 @@ https://mp.weixin.qq.com/s/89wXyPaSn3TYn4pmVdr-Mw  csrce
 10.18  https://mp.weixin.qq.com/s?__biz=MzU2NTExMDQxOQ==&mid=2247483934&idx=1&sn=aa20df31b6dea473ed72cfb90d50a752  redis未授权到shiro反序列化
 10.19 https://mp.weixin.qq.com/s?__biz=MjM5MTYxNjQxOA==&mid=2652892336&idx=1&sn=d9e85c818155854614af617918d85714&chksm=bd59907d8a2e196b7f72aa6cd69eaa2f09fca2791e86c6f8dc3f7ae37897fdca2a5f5fca5e84&scene=178&cur_album_id=2619537533131227139#rd apachespark命令注入
 
+11.10 https://mp.weixin.qq.com/s?__biz=Mzg5OTQ3NzA2MQ==&mid=2247484929&idx=1&sn=39ed4ec26af5a3d40ccefbf340bd295d&chksm=c053fd2bf724743d0a4cf2e5f995c631a33cba1262dfa7cd8bd09966fd71b5f867e6212233c9&mpshare=1&scene=23&srcid=1109ne3bmFyb2NFKi1ISzS1y&sharer_sharetime=1667931921863&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd Kcon议题分析《高级攻防下的WebShell》分析
