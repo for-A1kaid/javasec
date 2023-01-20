@@ -43,3 +43,4 @@ https://mp.weixin.qq.com/s/89wXyPaSn3TYn4pmVdr-Mw  csrce
 11.10 https://mp.weixin.qq.com/s?__biz=Mzg5OTQ3NzA2MQ==&mid=2247484929&idx=1&sn=39ed4ec26af5a3d40ccefbf340bd295d&chksm=c053fd2bf724743d0a4cf2e5f995c631a33cba1262dfa7cd8bd09966fd71b5f867e6212233c9&mpshare=1&scene=23&srcid=1109ne3bmFyb2NFKi1ISzS1y&sharer_sharetime=1667931921863&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd Kcon议题分析《高级攻防下的WebShell》分析
 11.11 https://mp.weixin.qq.com/s/vhKWEz9hwhdinm4TEtLUqw spi机制到jdbc后门实现
 12.1 https://mp.weixin.qq.com/s/osuoinwCpOwNM4WoI6SOnQ grpc内存马
+1.20https://www.sec-in.com/article/896 amazon-redshift-jdbc-driver 任意代码执行漏洞
